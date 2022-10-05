@@ -1,0 +1,34 @@
+div p a{
+    background-color: crimson;
+}
+
+img[alt="foto"]{
+
+}
+div p{
+    line-height: 20pt;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12pt;
+    font-family: Times, serif;
+}
+a:link{
+    color: crimson;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #4287f5;
+    background-color: rgba(66, 135, 245,0.5);
+    text-decoration: overline;
+}
+
+a:active{
+
+}
+
+img{
+    width: 25em;
+    min-width: 200px;
+}
+.bold-red{}

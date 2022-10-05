@@ -1,0 +1,17 @@
+.a {
+}
+
+div p a {
+    color: orange;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited{
+    color: rgba(3, 111, 0,0.5);
+    text-decoration:underline;
+    font: bold italic 12pt/20pt Times, serif;
+}

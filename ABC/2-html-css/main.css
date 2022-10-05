@@ -1,0 +1,31 @@
+.green{
+    color: green;
+}
+
+p, a{
+   /*color: red;*/
+}
+.red-big{
+    color:red;
+    font-size: 12pt;
+}
+
+p.orange-big{
+    color: orange;
+    font-size: 50pt;
+}
+
+.blue-container p b{
+    color: blue;
+}
+
+div{}
+
+*{
+    font-family: Arial, serif, Calibri;
+}
+
+a:link{
+    text-decoration: none;
+    color: red;
+}
